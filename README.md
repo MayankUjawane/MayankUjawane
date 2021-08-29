@@ -35,6 +35,10 @@ Here are some ideas to get you started:
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+
+
+<a href="https://github.com/MayankUjawane/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MayankUjawane&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 -->
 
 
@@ -51,16 +55,13 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 
   <br/>
+  <p align="center">
     <a href="https://github.com/MayankUjawane/github-readme-stats"><img alt="Mayank Ujawane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankUjawane&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    &nbsp &nbsp
   <a href="https://github.com/MayankUjawane/github-readme-stats"><img alt="Mayank Ujawane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankUjawane&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/MayankUjawane/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MayankUjawane&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
 
 <br/>
 <br/>
