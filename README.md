@@ -46,16 +46,16 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank</h1>
 
-
-<p align="center"> 
 ## 🚀 Languages and Tools
-<p align="center"> 
+
  <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
  <code><img width="35" height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
  <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
  <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
  <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- <code><img width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code> 
+ <code><img width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code>
+<br/>
+<br/>
 
 <p align="center">
     <a href="https://github.com/MayankUjawane/github-readme-streak-stats">
@@ -64,25 +64,22 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 My Github Stats
-
-  <br/>
+  <br/>  
+  
   <p align="center">
     <a href="https://github.com/MayankUjawane/github-readme-stats"><img alt="Mayank Ujawane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankUjawane&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/MayankUjawane/github-readme-stats"><img alt="Mayank Ujawane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankUjawane&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-
-<br/>
 <br/>
 
-## Connect with me:
+## 📫 Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/mayankujawane/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mayankujawane/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
+<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/MayankUjawane/github-profile-views-counter">
