@@ -46,6 +46,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank</h1>
 
+
+<p align="center"> 
+## 🚀 Languages and Tools
+<p align="center"> 
+ <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+ <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+ <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+ <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+ <code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ <code><img width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code> 
+
 <p align="center">
     <a href="https://github.com/MayankUjawane/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mayank Ujawane's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankUjawane&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
